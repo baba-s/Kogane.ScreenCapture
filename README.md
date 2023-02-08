@@ -8,11 +8,11 @@ Unity エディタでゲーム画面のスクリーンショットを撮影で�
 
 Unity メニューの「Kogane > スクリーンショット撮影」で実行できます
 
-![ScreenShot00143](https://user-images.githubusercontent.com/6134875/217517592-f7a5f980-f17f-4d37-bed3-66813cd16eb8.png)
+![ScreenShot00142](https://user-images.githubusercontent.com/6134875/217517595-8fb3fadc-4eb4-4039-bc1b-6f49932bffbb.png)
 
 Unity メニューの「Window > Kogane > Screen Capture」を押すと
 
-![ScreenShot00142](https://user-images.githubusercontent.com/6134875/217517595-8fb3fadc-4eb4-4039-bc1b-6f49932bffbb.png)
+![ScreenShot00143](https://user-images.githubusercontent.com/6134875/217517592-f7a5f980-f17f-4d37-bed3-66813cd16eb8.png)
 
 スクリーンショットを撮影できるボタンが配置されたウィンドウを表示できます
 
