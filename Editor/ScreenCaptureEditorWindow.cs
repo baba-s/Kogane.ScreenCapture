@@ -14,9 +14,14 @@ namespace Kogane.Internal
 
         private void OnGUI()
         {
+            if ( GUILayout.Button( "Capture Screenshot (Transparent)", GUILayout.ExpandHeight( true ) ) )
+            {
+                ScreenCapture.CaptureScreenshot( true );
+            }
+
             if ( GUILayout.Button( "Capture Screenshot", GUILayout.ExpandHeight( true ) ) )
             {
-                ScreenCapture.CaptureScreenshot();
+                ScreenCapture.CaptureScreenshot( false );
             }
         }
     }
